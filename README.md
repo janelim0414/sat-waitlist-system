@@ -7,7 +7,7 @@ Inspired by Resy's waitlist system, this solution uses a web scraper to query th
 ## How to use
 1. Clone the repository 
    ```
-   git clone 
+   git clone https://github.com/janelim0414/test-center-notification-system.git
    ```
 2. Create an app password for sender's email
 3. Configure ```examples.py``` file to match personal information (sender's/recipient's email, password, zip code, etc.)
