@@ -1,7 +1,5 @@
 ## SAT Test Center Notification System
 
-If you are a high school student preparing for SAT, you probably have experienced the struggles of finding a test center near your town. \
-This python script monitors the available test centers upto 100 miles from your zip code and notifies via email if any update is detected. \
-Inspired by Resy's waitlist system, I created a solution via web scraper that queries collegeboard's API endpoint to retrieve information about test centers.
+As a high school student preparing for the SAT, you might have faced the challenge of finding a nearby test center with available seats. This Python script helps alleviate that stress by monitoring test centers within a 100-mile radius of your zip code. Whenever a new test center with available seats is detected, the script sends you an email notification.
 
-Minimize your travel time, maximize your sleep, and ace your test!
+Inspired by Resy's waitlist system, this solution uses a web scraper to query the College Board's API and gather real-time information about test center availability. This way, you can minimize travel time, get a good night's sleep, and perform your best on test day!
