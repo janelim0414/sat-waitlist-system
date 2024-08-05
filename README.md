@@ -10,10 +10,10 @@ Inspired by Resy's waitlist system, this solution uses a web scraper to query th
    git clone https://github.com/janelim0414/test-center-notification-system.git
    ```
 2. Create an app password for sender's email
-3. Configure ```examples.py``` file to match personal information (sender's/recipient's email, password, zip code, etc.)
-4. Run ```examples.py``` on terminal
+3. Configure ```example.py``` file to match personal information (sender's/recipient's email, password, zip code, etc.)
+4. Run ```example.py``` on terminal
    ```
-   python examples.py
+   python example.py
    ```
 5. Let it run until you find the test center you like!
 
